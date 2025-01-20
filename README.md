@@ -3,7 +3,7 @@
 This **Quiz App** is built with **Next.js** and **Tailwind CSS**, providing a dynamic and engaging quiz experience. The app features a variety of interactive elements such as real-time scoring, a timer for each question, answer validation, and detailed results upon completion. The user interface is fully responsive and the quiz data is loaded from JSON files.
 
 ## Live Demo
-[Click Here to Try the Quiz App](https://quiz-app-aman-kumar-sinha.vercel.app/)
+[Click Here to Try the Quiz App]
 
 ## Features
 

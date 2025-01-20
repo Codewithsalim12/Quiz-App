@@ -49,7 +49,7 @@ This **Quiz App** is built with **Next.js** and **Tailwind CSS**, providing a dy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AmanKumarSinhaGitHub/Quiz-App-in-NextJS.git
+https://github.com/Codewithsalim12/Quiz-App.git
 ```
 
 ### 2. Navigate to the Project Folder
